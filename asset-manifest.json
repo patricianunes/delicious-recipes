@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/delicious-recipes/static/css/main.9b3b67fd.chunk.css",
+    "main.js": "/delicious-recipes/static/js/main.7c3f9255.chunk.js",
+    "main.js.map": "/delicious-recipes/static/js/main.7c3f9255.chunk.js.map",
+    "runtime~main.js": "/delicious-recipes/static/js/runtime~main.60fcd059.js",
+    "runtime~main.js.map": "/delicious-recipes/static/js/runtime~main.60fcd059.js.map",
+    "static/css/2.266e55a5.chunk.css": "/delicious-recipes/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6c4bcd28.chunk.js": "/delicious-recipes/static/js/2.6c4bcd28.chunk.js",
+    "static/js/2.6c4bcd28.chunk.js.map": "/delicious-recipes/static/js/2.6c4bcd28.chunk.js.map",
+    "index.html": "/delicious-recipes/index.html",
+    "precache-manifest.442a7eca7a2a63f3eab5319769ab2ff1.js": "/delicious-recipes/precache-manifest.442a7eca7a2a63f3eab5319769ab2ff1.js",
+    "service-worker.js": "/delicious-recipes/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/delicious-recipes/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.9b3b67fd.chunk.css.map": "/delicious-recipes/static/css/main.9b3b67fd.chunk.css.map"
+  }
+}
