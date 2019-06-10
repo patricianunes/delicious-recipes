@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ed996db39516f40dd1649f191d62add",
+    "revision": "5ba3f047e28f9297d7c69271b8e8e952",
     "url": "/delicious-recipes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delicious-recipes/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "6208bb1c231c54ce6270",
+    "revision": "a270b82670bbe67b2d83",
     "url": "/delicious-recipes/static/css/main.9b3b67fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/delicious-recipes/static/js/2.6c4bcd28.chunk.js"
   },
   {
-    "revision": "6208bb1c231c54ce6270",
-    "url": "/delicious-recipes/static/js/main.7c3f9255.chunk.js"
+    "revision": "a270b82670bbe67b2d83",
+    "url": "/delicious-recipes/static/js/main.7e0669d0.chunk.js"
   },
   {
     "revision": "1bbbc7614094be5a1325",
