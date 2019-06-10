@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ba3f047e28f9297d7c69271b8e8e952",
+    "revision": "b677a5c25de48d831256e64154a04f23",
     "url": "/delicious-recipes/index.html"
   },
   {
-    "revision": "d64445c5c906892219b3",
+    "revision": "2fe8bd79c8587afd6128",
     "url": "/delicious-recipes/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "a270b82670bbe67b2d83",
+    "revision": "f4a46f2392b93045cc57",
     "url": "/delicious-recipes/static/css/main.9b3b67fd.chunk.css"
   },
   {
-    "revision": "d64445c5c906892219b3",
-    "url": "/delicious-recipes/static/js/2.6c4bcd28.chunk.js"
+    "revision": "2fe8bd79c8587afd6128",
+    "url": "/delicious-recipes/static/js/2.32522a64.chunk.js"
   },
   {
-    "revision": "a270b82670bbe67b2d83",
-    "url": "/delicious-recipes/static/js/main.7e0669d0.chunk.js"
+    "revision": "f4a46f2392b93045cc57",
+    "url": "/delicious-recipes/static/js/main.794004c0.chunk.js"
   },
   {
     "revision": "1bbbc7614094be5a1325",
