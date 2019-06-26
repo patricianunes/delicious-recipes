@@ -1,71 +1,64 @@
 Visit this project at [Delicious Recipes](https://patricianunes.github.io/delicious-recipes/#/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Delicous Recipes
+Visit this project at [Delicious Recipes](https://patricianunes.github.io/delicious-recipes/#/)
 
-## Available Scripts
 
-In the project directory, you can run:
+Overview
+---
 
-### `npm start`
+An example of how we can use free IPAs and build interesting things with all that data.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Simple sample for view recipes, I used React to build this app.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+: )
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ###Necessary Deliverables
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+A working game, built by you, hosted somewhere on the internet
+A link to your hosted working game in the URL section of your Github repo
+A git repository hosted on Github, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
+A readme.md file with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+##Emphasis
+*Italic*, **Bold**, ***Both***
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Alternatively: _italic_, __bold__, ___superfancy___
 
-### `npm run eject`
+##Starred lists
+* List 1
+* List 2
+* List 3
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+##Dashed lists
+- Dashes
+- Work
+- Too
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Addition Lists
++ Plus
++ Also
++ Works
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Nubered lists
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. first
+1. second
 
-## Learn More
+links work like this: [text for the link] (http://w3c.org/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Images
+![Bill Murray](http://fillmarray.com/400/700)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Code: backtick city
+Refere to a variable like `counter` in special font.
 
-### Code Splitting
+```
+const hello = function() {
+  console.log('hello');
+}
+``` -->
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# delicious-recipes
